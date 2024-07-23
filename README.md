@@ -4,35 +4,40 @@
 
 <h3 align="center">An enthusiastic fullstack developer from Ukraine <img src="https://flagcdn.com/ua.svg" alt="UA" width=20px/></h3>
 
+<br />
+
 <p align="center"> 
-  Visitors count<br>
+  Profile visits <br />
   <img src="https://profile-counter.glitch.me/wowcheek/count.svg" />
 </p>
 
-<br/>
+<br />
 
 <div align="center">
   
-📚 I’m currently learning **C#, ASP.NET**
+📚 I’m currently learning **ASP.NET, Angular**
   
 💻 I’m currently working on a **Dating app**
 
-💬 Ask me about **Node.js, React, Python, ML ... or anything [here](https://www.linkedin.com/in/volodymyrsavchuk/)**
+💬 Ask me about **.NET, React, Python, ML ... or anything [here](https://www.linkedin.com/in/volodymyrsavchuk/)**
 
 ⚡ Fun fact: **I wish I could join the Night's Watch just for the epic view from the Wall 😜**
 
  </div>
- 
+
 <div align="center"> 
   <a href="mailto:savchuk.v03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a>
   <a href="https://www.linkedin.com/in/volodymyrsavchuk/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1EMcmDAHVT7ZzxfhtXjOQQ1fEf1KnBiwf/view?usp=sharing">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+  </a>
 </div>
 
- <hr/>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
