@@ -7,19 +7,19 @@
 <br />
 
 <p align="center"> 
-  Profile visits <br />
-  <img src="https://profile-counter.glitch.me/wowcheek/count.svg" />
+  Profile visits <br /> <br />
+  <img src="https://profile-counter.deno.dev/wowcheek/count.svg" />
 </p>
 
 <br />
 
 <div align="center">
   
-📚 I’m currently learning **ASP.NET, Angular**
+📚 I’m currently learning **Azure, AWS**
   
 💻 I’m currently working on a **Dating app**
 
-💬 Ask me about **.NET, React, Python, ML ... or anything [here](https://www.linkedin.com/in/volodymyrsavchuk/)**
+💬 Ask me about **.NET, React, Angular, Python, ML ... or anything [here](https://www.linkedin.com/in/volodymyrsavchuk/)**
 
 ⚡ Fun fact: **I wish I could join the Night's Watch just for the epic view from the Wall 😜**
 
@@ -29,10 +29,10 @@
   <a href="mailto:savchuk.v03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
-  <a href="https://www.linkedin.com/in/volodymyrsavchuk/">
+  <a href="https://www.linkedin.com/in/v-savchuk/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1EMcmDAHVT7ZzxfhtXjOQQ1fEf1KnBiwf/view?usp=sharing">
+  <a href="https://github.com/WoWcheek?tab=repositories">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
   </a>
 </div>
